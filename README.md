@@ -1,5 +1,5 @@
 
-## Collaboration Example
+## Collaboration Example 
 
 This repo is used to teach collaboration in a git repo.
 
@@ -7,3 +7,5 @@ This repo is used to teach collaboration in a git repo.
 * Jennifer Alicea
 * Ronell Washington
 
+
+## This project is great.
