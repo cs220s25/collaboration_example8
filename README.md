@@ -8,8 +8,8 @@
 This repo is used to teach collaboration in a git repo.
 
 ## Contributors
-* Jennifer Alicea
-* Ronell Washington
+* Jennifer Alicea aliceaj@moravian.edu
+* Ronell Washington washingtonr@moravian.edu
 
 
 ## This project is great.
